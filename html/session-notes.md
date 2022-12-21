@@ -2,7 +2,7 @@
 
 ## **Session 1:** HTML
 
-Setup your working environment to follow through.
+Setup your development environment to follow through the session.
 
 ### Download Visual Studio Code
 
